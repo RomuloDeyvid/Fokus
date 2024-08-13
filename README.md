@@ -3,5 +3,5 @@
 <h3>Projeto desenvolvido em JavaScript e Typescript</h3>
 <p>Dê uma olhada nno projeto no link :</p>
 https://fokus-one-nu.vercel.app/
-<img src='![image](https://github.com/user-attachments/assets/65d91857-f04a-4deb-870b-916c6ff60343)'>
-<img src='![image](https://github.com/user-attachments/assets/4abbd0f6-501c-426b-b2bd-b7752ade3799)'>
+<img src='https://github.com/user-attachments/assets/65d91857-f04a-4deb-870b-916c6ff60343'>
+<img src='https://github.com/user-attachments/assets/4abbd0f6-501c-426b-b2bd-b7752ade3799'>
